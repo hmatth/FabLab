@@ -1,0 +1,12 @@
+.navbar-brand {
+	width:100px; 
+	height:auto;
+} 
+.navbar-nav {
+	margin-top:10px;
+}
+.media-object{
+	width:125px;
+	height:125px;
+	margin-right:25px;
+}
